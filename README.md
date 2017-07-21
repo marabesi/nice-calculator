@@ -17,7 +17,7 @@ soon
 soon
 
 ### Contributing
-soon
+Have a look our [contributing guideline](https://github.com/tiagopaes/nice-calculator/blob/master/CONTRIBUTING.md).
 
 ### License
 Nice Calculator is under the terms of the [MIT license](https://github.com/tiagopaes/nice-calculator/blob/master/LICENSE).
